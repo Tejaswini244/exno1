@@ -1,3 +1,7 @@
+```
+Name:TEJASWINI R
+Reg no:24009408
+```
 # Exno:1
 Data Cleaning Process
 
